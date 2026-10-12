@@ -1,0 +1,14 @@
+- Lived 1466-1536, one of the most influential of all Christian Humanists 
+- Educated at one of the Schools of Brothers of the Common Life.
+- Wandered between many countries
+	- France, Germany, Switzerland, England, and Italy
+- Wrote *[[Handbook of the Christian Knight]]* 
+	- This reflected his preoccupation with religion
+- Believed that the current translations of the bible contained errors, so he wrote a new translation based on the earliest available manuscripts and published Greek and Latin versions in 1516.
+- Wrote *Annotations*, a detailed commentary on the Vulgate Bible
+- His work on the New Testament was considered one of his greatest achievements, formed the basis for Martin Luther's translation of the New Testament 
+- Wrote *[[The Praise of Folly]]*, a criticism of the corrupt practices of society.
+- Never achieved the reform he aimed for, his moderate views were overtaken by the passions of the Reformation
+- Often said that "Erasmus laid the egg that Luther hatched"
+- Didn't want to destroy the unity of the Church; he aimed for reform within the Church itself
+	- To him, reform meant spreading the understanding of the Philosophy of Jesus, providing education in the sources of Early Christianity, and common-sense criticisms of the Church.

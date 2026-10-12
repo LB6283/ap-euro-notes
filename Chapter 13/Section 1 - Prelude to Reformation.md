@@ -1,0 +1,12 @@
+### Christian or Northern Renaissance Humanism
+- Christian Humanists cultivated a knowledge of classics, like their Italian counterparts
+- They focused on the sources of early Christianity, the bible, and writings of church fathers such as Augustine, Ambrose, and Jerome.
+	- They found a simple religion that they believed had been distorted by the complex theological arguments of the middle ages 
+- Believed that through studying classical antiquity and educating people about it, they could instill an inner piety that would bring about reform in the church.
+	- As such, they supported schools, and the ability for everyone to be able to read the bible in their native language.
+	- [[Erasmus]], in his preface to his Greek translation of the New Testament, argued that women should be able to read as well
+- Believed very deeply in the power of education, some called them naive, but they were simply optimistic
+- Major Christian Humanists include [[Erasmus]] and [[Thomas More]]
+- Erasmus:
+	- Emphasized Christianity as a "philosophy of Christ"
+	- Translated the New Testament and wrote *[[The Praise of Folly]]*.

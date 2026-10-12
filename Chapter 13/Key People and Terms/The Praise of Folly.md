@@ -1,0 +1,8 @@
+- A humorous criticism of society by Erasmus, focused on the clergy
+- Written in 1509.
+- Targeted the clergy, and the actions of the Church that seemed obviously dumb
+	- Monks would argue over things like the color of shoelaces, and the length of clothing
+	- Argued that the monks and clergy didn't actually get the point of what they did
+		- Fasts were broken by large meals
+		- Not much charity, which is what Christ demands
+- Excerpt can be found on *Spielvogel* pg. 370

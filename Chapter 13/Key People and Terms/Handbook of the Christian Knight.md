@@ -1,0 +1,3 @@
+- Printed in 1503
+- Argued that Christianity should be a guiding philosophy for life rather than the strict rules emphasized by the Church
+- Emphasized inner piety over external forms of religion, such as sacraments, fasts, pilgrimages, relics, and the veneration of saints.
