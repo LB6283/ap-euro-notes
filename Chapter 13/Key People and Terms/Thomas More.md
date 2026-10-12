@@ -1,2 +1,8 @@
 - Son of a London Lawyer, lived from 1478-1535
-- 
+- Believed in using his education to serve the state
+- Good friend of [[Erasmus]]
+- Wrote *[[Utopia]]* in 1516
+- In his service of the King, he came face to face with corruption, defended it:
+	- Argued that if he couldn't eliminate wrong ideas, he can lessen the damage done by quietly working to stop them in his service of the King
+- Advocated for the persecution of those who would change the workings of the Catholic Church.
+- Willingly gave up his life opposing England's break with the Catholic Church.
