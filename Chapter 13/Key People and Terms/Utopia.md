@@ -1,0 +1,7 @@
+- Book written by Thomas More in 1516
+- An account of the idealistic society and institutions of the island Utopia (Greek for "nowhere"), which is somewhere in the New World
+- Reflects More's concern with the economic, social, and political problems of his day.
+- Imagined a society in which cooperation and reason replaced power and fame as the proper motivation agents for people.
+- Society was based on communal ownership
+- 9 hour work weeks
+- With plenty of leisure time and no competition, people led wholesome and fulfilling lives.
