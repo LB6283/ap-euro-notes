@@ -1,0 +1,3 @@
+- The Book of Common Prayer was first published in 1549 during the reign of [[Edward VI]]
+- Compiled chiefly by Archbishop Thomas Cranmer, it provided a standard prayer book and guide to worship within England
+- In 1559, [[Elizabeth I]] restored the Book of Common Prayer with some revisions to make it more acceptable to Catholics

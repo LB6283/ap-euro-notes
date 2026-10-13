@@ -1,5 +1,5 @@
 - By the 16th century, Calvinism and Catholicism had become activist religions dedicated to spreading their word  
-- The French Wars of Religion (1562-1598)  
+- ### The French Wars of Religion (1562-1598)  
 	- The French kings attempted to stop Calvinism by persecuting Huguenots (Huguenots were French Calvinists)  
 	- Possibly 40-50% of the French nobility, including the Bourbons, were Huguenots, becoming a dangerous political threat to monarchical power.  
 	- Overall, only 10% of the population were Calvinists, a minority, but they were strong-willed and organized.  
@@ -11,16 +11,16 @@
 	- Course of the Struggle  
 		- Wars erupted in 1562 when the Duke of Guise massacred a peaceful group of Huguenots at Vassy  
 		- The Huguenots were too small to conquer, but were amazing at defending themselves  
-		- The Catholic \+ Calvinist parties appeared to have reconciled after the sister of the reigning Valois king, Charles IX (1560-1574), and Henry of Navarre, the Bourbon ruler, married  
+		- The Catholic + Calvinist parties appeared to have reconciled after the sister of the reigning Valois king, [[Charles IX]] (1560-1574), and Henry of Navarre, the Bourbon ruler, married  
 		- Henry of Navarre was the acknowledged political leader of the Huguenots; many came to Paris for the wedding  
 		- The Guise family persuaded Charles and his mother (Catherine de' Medici) to eliminate the Huguenots with one swift blow  
 		- Charles and his advisers believed that civil war was coming  
 		- In August 1572, the Saint Bartholomew’s Day massacre occurred  
-		- The king’s guards killed prominent Huguenot leaders  
-		- This unleashed a wave of violence against the Huguenots  
-		- 3000 Huguenots were brutally and blood thirstily killed  
-		- However, Henry of Navarre saved his life by promising to convert to Catholicism  
-		- This discredited the Valois dynasty, but did not end the fighting  
+			- The king’s guards killed prominent Huguenot leaders  
+			- This unleashed a wave of violence against the Huguenots  
+			- 3000 Huguenots were brutally and blood thirstily killed  
+			- However, Henry of Navarre saved his life by promising to convert to Catholicism  
+			- This discredited the Valois dynasty, but did not end the fighting  
 		- In 1576, the ultra-Catholics formed a “Holy League” to exterminate heresy and seat a true catholic - [[Henry I, Duke of Guise]] - on the French throne in place of [[Henry III]] (1574-1589), who succeeded his brother Charles IX
 		- After the War of the Three Henrys in 1588-1589, [[Henry I, Duke of Guise]] seized Paris and forced [[Henry III]] to make him chief minister  
 		- Soon after, [[Henry III]] assassinated [[Henry I, Duke of Guise]] and joined the now Calvinist [[Henry of Navarre]] to retake Paris, which was successful  
@@ -28,8 +28,8 @@
 		- [[Henry of Navarre]] converted to Catholicism, an example of him being politique  
 		- With his coronation in 1594, the French Wars of Religion came to an end  
 		- In 1598, the [[Edict of Nantes]] was issued, acknowledging Catholicism as the official religion of France but granting Huguenots the right to worship in specific places, retain some fortified towns for protection, and all political privileges (including holding office)  
-- Philip II and Militant Catholicism  
-	- King Philip II of Spain (1556-1598), the son \+ heir of Charles V, was the greatest advocate of Catholic activism in the second half of the 16th century.  
+- ### Philip II and Militant Catholicism  
+	- [[King Philip II of Spain]] (1556-1598), the son + heir of [[Charles V]], was the greatest advocate of Catholic activism in the second half of the 16th century.  
 	- Philip sought to consolidate \+ secure his inherited lands  
 	- Strict Catholic conformity through an aggressive Spanish Inquisition and a strong monarchical authority  
 	- However, this would be difficult because the various states and territories were individual  
@@ -46,7 +46,7 @@
 		- The Netherlands consisted of 17 provinces, including the modern Netherlands, Belgium, and Luxembourg.  
 		- The northern provinces were Germanic in culture \+ Dutch-speaking, while the southern French / Flemish speaking closely tied to France.  
 		- The Netherlands became prosperous through commerce and a flourishing textile industry.  
-		- Some adopted Lutheranism / Anabaptism; some adopted Calvinism  
+		- Some adopted Lutheranism / Anabaptism; by Philip II some had adopted Calvinism  
 		- Overall, the Netherlands had no political bond other than Philip II  
 		- Philip II sought to strengthen his control in the Netherlands, leading to strong opposition from nobles, towns, and provincial states  
 		- Furthermore, after the Netherlands realized their taxes were being used for Spanish interests, opposition increased  
@@ -58,34 +58,34 @@
 		- In 1576, with the Pacification of Ghent, this became realized   
 		- However, religious differences were too great, leading to the southern provinces forming a Catholic union \- the Union of Arras \- in 1579 and accepting Spanish Control  
 		- In 1609, a 12-year truce ended the war, recognizing the independence of the northern provinces \- the Dutch Republic \- with the 10 southern provinces remaining Spanish  
-- The England of Elizabeth  
-	- After Queen Mary died in 1558, her half-sister Elizabeth (1558-1603) became queen.  
+- ### The England of Elizabeth  
+	- After Queen Mary died in 1558, her half-sister [[Elizabeth I]] (1558-1603) became queen.  
 	- England became the leader of the Protestant nations in Europe, laid the foundations for a world empire, and experienced a cultural renaissance.  
-	- Elizabeth was the daughter of King Henry VIII and Anne Boleyn.  
+	- Elizabeth was the daughter of [[King Henry VIII]] and Anne Boleyn.  
 	- Elizabeth had a difficult early life and learned to be intelligent, cautious, and self-confident.  
 	- Religious Policy  
-		- Elizabeth sought moderation and compromise, not wanting England to tear itself apart over religion.  
+		- [[Elizabeth I]] sought moderation and compromise, not wanting England to tear itself apart over religion.  
 		- In 1559, Elizabeth’s religious settlement was initiated, and the Catholic legislation of Mary’s reign was repealed.  
 		- The new Act of Supremacy designated Elizabeth as “the only supreme governor of this realm, as well in all spiritual or ecclesiastical things or causes, as temporal” rather than the “Supreme Head of the Church”  
-		- The Act of Uniformity restored the Book of Common Prayer (Edward VI) but was made more acceptable to Catholics.  
-		- The Thirty-Nine Articles from the BoCP were a new confession of faith between Lutheranism and Calvinism.  
+		- The Act of Uniformity restored the [[Book of Common Prayer]] (Edward VI) but was made more acceptable to Catholics.  
+		- The Thirty-Nine Articles from the Book of Common Prayer were a new confession of faith between Lutheranism and Calvinism.  
 		- Overall, her new religious settlement was moderately Protestant and avoided extremes.  
 		- It worked to smother religious differences in the second half of the 16th century, but Catholics and Puritans continued to oppose it.  
-		- Elizabeth's Catholic cousin, Mary, Queen of Scots, next in line to the English throne, fled to England in 1568  
+		- Elizabeth's Catholic cousin, [[Mary, Queen of Scots]], next in line to the English throne, fled to England in 1568  
 		- She was placed under house arrest, and Elizabeth tolerated her involvement in a few plots to kill Elizabeth.  
 		- However, in 1587, Elizabeth finally had her beheaded  
 		- Elizabeth kept the Puritans in check during her reign  
 		- Elizabeth proved adept in government and foreign policy  
 	- Foreign Policy  
-	- Elizabeth's foreign policy can be characterized by caution, moderation, and expediency.  
-	- Elizabeth encouraged English piracy \+ provided aid to the Huguenots \+ Dutch Calvinists to weaken France and Spain.  
-	- However, she pretended complete aloofness and avoided alliances that would force her into war (without any major power)  
-	- Philip II of Spain decided to invade England  
-		- The people of England would rise against the queen once they arrived  
-		- The revolt in the Netherlands would never be crushed with England’s continued support  
-		- A successful invasion would overthrow the heresy and return England to Catholicism, in accordance with the will of God  
-	- The Spanish Armada  
-		- The Armada failed  
-		- The Spanish fleet had neither the ships nor the troops Philip planned to send  
-		- The Spanish fleet sailed back north, only to be battered by storms  
-		- The war between England and Spain continued for 16 years, but this defeat was a large psychological blow and guaranteed that England would remain protestant
+		- Elizabeth's foreign policy can be characterized by caution, moderation, and expediency.  
+		- Elizabeth encouraged English piracy + provided aid to the Huguenots + Dutch Calvinists to weaken France and Spain.  
+		- However, she pretended complete aloofness and avoided alliances that would force her into war (without any major power)  
+		- [[Philip II of Spain]] decided to invade England  
+			- The people of England would rise against the queen once they arrived 
+			- The revolt in the Netherlands would never be crushed with England’s continued support  
+			- A successful invasion would overthrow the heresy and return England to Catholicism, in accordance with the will of God  
+		- The Spanish Armada  
+			- The Armada failed  
+			- The Spanish fleet had neither the ships nor the troops Philip planned to send  
+			- The Spanish fleet sailed back north, only to be battered by storms  
+			- The war between England and Spain continued for 16 years, but this defeat was a large psychological blow and guaranteed that England would remain protestant

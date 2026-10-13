@@ -1,0 +1,3 @@
+- Elizabeth I was born the daughter of [[King Henry VIII]] and Anne Boleyn in 1533 and died in 1603 
+- In 1558 after the death of her half-sister [[Mary I]], she became the Queen of England and the last Tudor monarch
+- Throughout her reign, she 
