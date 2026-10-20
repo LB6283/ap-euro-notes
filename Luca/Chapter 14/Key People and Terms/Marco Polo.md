@@ -1,0 +1,3 @@
+- Went to the East around 1271
+- Made it to Kublai Khan's court
+- Wrote *Travels*, which was the best account of Asia by Medieval travelers.
