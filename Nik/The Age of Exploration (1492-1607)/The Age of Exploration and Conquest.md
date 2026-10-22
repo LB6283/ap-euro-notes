@@ -21,7 +21,7 @@
 	- Growth of centralized Monarchies  
 		- European monarchies had increased authority \+ resources  
 		- Could focus beyond their borders  
-		- Ferdinand \+ Isabella hired Christopher Columbus  
+		- Ferdinand \+ Isabella hired [[Christopher Columbus]]  
 	- Maps  
 		- Portolani \- charts made by medieval navigators \+ mathematicians  
 			- Details like coastal contours, distances between ports, and compass readings  

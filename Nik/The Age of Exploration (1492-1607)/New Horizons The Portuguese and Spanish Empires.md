@@ -27,7 +27,7 @@
 		- Guns, seamanship  
 		- Luck of being slightly more advanced \+ had more modern artillery \+ naval technology  
 - Voyages to the New World  
-	- Columbus  
+	- [[Christopher Columbus]]  
 		- Genoese (Italian) sailor  
 		- Commissioned by Ferdinand and Isabella  
 		- Believed the circumference of the Earth was smaller than people thought \+ Asia larger than they thought  
@@ -36,7 +36,7 @@
 			- Convinced F+I to fund more voyages with promises of gold and opportunities to convert native people to Christianity  
 		- Should he be celebrated or whatever or something
 			- Had his own federal holiday, just like Lincoln (who freed slaves) and Martin Luther King Jr. (who fought for civil rights for African Americans \+ other marginalized groups)  
-			- Leif Ericson \+ Native Americans discovered first  
+			- Leif Erikson (Norse, first European to set foot on continental America\+ Native Americans discovered first  
 			- Initiator of the two greatest crimes in the history of the Western Hemisphere:
 				- Destruction of Native Americans and theft of their land  
-				- Trans-Atlantioc Slave Trade
+				- Trans-Atlantic Slave Trade
