@@ -1,0 +1,38 @@
+- **The Age of Exploration and Conquest**  
+- On the Brink of a New World  
+	- For nearly 1000 years, Europe had been confined to one geographic area  
+	- Contact with non-European civilizations limited until end of 15th  
+	- Exploration + Expansion brought Europe into lasting contact with non-European \+ new age  
+- Motives for Expansion  
+	- “God, Glory, and Gold”  
+	- Fantastic Lands (Glory)  
+		- Genre in Medieval literature about other worlds  
+		- ~~The Travels of John Mandeville \- realms filled with precious stuff~~  
+	- Economic Motives (Gold)  
+		- Marco Polo inspired Europeans to explore the East \- Travels  
+		- Polo spent time in the court of Mongol ruler Kublai Khan in 1271, spoke of great riches  
+		- Trade on the Silk Roads  
+		- However, the conquest of the Ottoman Turks in the 1300s reduced eastern expansion  
+	- Religious Zeal (God)  
+		- Convert the heathen to Christianity  
+			- Most historians believe this is a secondary motive to economics, but should be taken seriously
+			- Remember that Spiritual + Secular affairs were closely intertwined in the 1500s
+- The Means for Expansion  
+	- Growth of centralized Monarchies  
+		- European monarchies had increased authority \+ resources  
+		- Could focus beyond their borders  
+		- Ferdinand \+ Isabella hired Christopher Columbus  
+	- Maps  
+		- Portolani \- charts made by medieval navigators \+ mathematicians  
+			- Details like coastal contours, distances between ports, and compass readings  
+			- Drawback: Drawn on a flat scale, did not account for curvature \- less helpful for overseas voyages  
+		- By the end of the 1400s, Europeans had sailed far enough to develop accurate maps  
+		- Ptolemy’s Geography Map  
+			- A Latin translation was made in 1477  
+			- It showed the world as spherical w/ 3 landmasses: Europe, Asia, and Africa w/ 2 Oceans  
+	- Ships and Sailing  
+		- New, remarkably seaworthy ships  
+			- ~~Axial rudder, lateen sails, square rig, etc.~~  
+		- New Navigational Equipment  
+			- ~~Compass, astrolabe, etc.~~  
+		- Knowledge of oceanic wind patterns
