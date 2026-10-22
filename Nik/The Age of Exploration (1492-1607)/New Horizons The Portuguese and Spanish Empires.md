@@ -1,0 +1,42 @@
+- The Portuguese Maritime Empire  
+	- Portugal took the lead in the European Age of Expansion and Exploration  
+	- Focused on maritime trade \+ exploration, not land conquests  
+	- Led by Prince Herny the Navigator  
+		- Founded a school for navigation in 1419  
+		- Portuguese fleets began probing southward along the African coast for gold  
+		- 1441 \- Brought African slaves from Cape Verde  
+		- 1471 \- Discovered gold in West African Gold Coast  
+		- Built stone forts along African coast  
+		- Began a trade (extracted wealth) in gold, ivory, and slaves  
+	- The Portuguese in India  
+		- Explorers heard there may be a way to reach India around Africa  
+		- 1488 \- Bartolomeu Dias rounds the Cape of Good Hope, turned back (fear of mutiny)  
+		- 1498 - Vasco da Gama rounds the Cape of Good Hope, sails to the port of Calicut in India,   
+		- Searching for “Christians and Spices”, did not find  
+		- Found LOTS of spices, cinnamon \+ ginger  
+		- 1510 \- Admiral Afonso de Albuquerque set up port fortifications in Goa, India (modern-day Mumbai / Bombay)  
+		- Became Portugal’s HQ in India  
+	- In Search of Spices  
+		- 1511 \- Afonso de Albuquerque sailed to Malacca on the Malay Peninsula (Malaysia), fought a battle, massacred local Arabs, seized the city  
+		- Malacca \= very important Portuguese trading port  
+		- Together with the Moluccas, it became known as the Spice Islands  
+		- Within a few years, the Portuguese had seized control of the spice trade from Muslim traders  
+		- Made LOTS of money  
+		- Established trading ports (not land) in India \+ China  
+	- Why were the Portuguese so Successful?  
+		- Guns, seamanship  
+		- Luck of being slightly more advanced \+ had more modern artillery \+ naval technology  
+- Voyages to the New World  
+	- Columbus  
+		- Genoese (Italian) sailor  
+		- Commissioned by Ferdinand and Isabella  
+		- Believed the circumference of the Earth was smaller than people thought \+ Asia larger than they thought  
+		- 1492 \- first voyage to the Americas  
+			- Landed first in the Bahamas, explored Cuba, then Hispaniola (modern-day Dominican Republic/Haiti)  
+			- Convinced F+I to fund more voyages with promises of gold and opportunities to convert native people to Christianity  
+		- Should he be celebrated or whatever or something
+			- Had his own federal holiday, just like Lincoln (who freed slaves) and Martin Luther King Jr. (who fought for civil rights for African Americans \+ other marginalized groups)  
+			- Leif Ericson \+ Native Americans discovered first  
+			- Initiator of the two greatest crimes in the history of the Western Hemisphere:
+				- Destruction of Native Americans and theft of their land  
+				- Trans-Atlantioc Slave Trade
