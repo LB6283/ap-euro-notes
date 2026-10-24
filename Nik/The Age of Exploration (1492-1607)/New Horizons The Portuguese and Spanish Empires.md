@@ -1,4 +1,4 @@
-- **The Portuguese Maritime Empire**  
+**The Portuguese Maritime Empire**  
 	- Portugal took the lead in the European Age of Expansion and Exploration  
 	- Focused on maritime trade \+ exploration, not land conquests  
 	- Led by Prince [[Henry the Navigator]] 
