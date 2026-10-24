@@ -1,5 +1,5 @@
 - By the 16th century, Calvinism and Catholicism had become activist religions dedicated to spreading their word  
-- ### The French Wars of Religion (1562-1598)  
+- **The French Wars of Religion (1562-1598)**
 	- The French kings attempted to stop Calvinism by persecuting Huguenots (Huguenots were French Calvinists)  
 	- Possibly 40-50% of the French nobility, including the Bourbons, were Huguenots, becoming a dangerous political threat to monarchical power.  
 	- Overall, only 10% of the population were Calvinists, a minority, but they were strong-willed and organized.  
@@ -28,7 +28,7 @@
 		- [[Henry of Navarre]] converted to Catholicism, an example of him being politique  
 		- With his coronation in 1594, the French Wars of Religion came to an end  
 		- In 1598, the [[Edict of Nantes]] was issued, acknowledging Catholicism as the official religion of France but granting Huguenots the right to worship in specific places, retain some fortified towns for protection, and all political privileges (including holding office)  
-- ### Philip II and Militant Catholicism  
+- **Philip II and Militant Catholicism**
 	- [[King Philip II of Spain]] (1556-1598), the son + heir of [[Charles V]], was the greatest advocate of Catholic activism in the second half of the 16th century.  
 	- Philip sought to consolidate \+ secure his inherited lands  
 	- Strict Catholic conformity through an aggressive Spanish Inquisition and a strong monarchical authority  
@@ -58,7 +58,6 @@
 		- In 1576, with the Pacification of Ghent, this became realized   
 		- However, religious differences were too great, leading to the southern provinces forming a Catholic union \- the Union of Arras \- in 1579 and accepting Spanish Control  
 		- In 1609, a 12-year truce ended the war, recognizing the independence of the northern provinces \- the Dutch Republic \- with the 10 southern provinces remaining Spanish  
-- ### The England of Elizabeth  
 	- After Queen Mary died in 1558, her half-sister [[Elizabeth I]] (1558-1603) became queen.  
 	- England became the leader of the Protestant nations in Europe, laid the foundations for a world empire, and experienced a cultural renaissance.  
 	- Elizabeth was the daughter of [[King Henry VIII]] and Anne Boleyn.  

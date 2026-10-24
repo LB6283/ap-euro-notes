@@ -18,7 +18,7 @@
 	- In Search of Spices  
 		- In the early 16th, the Portuguese began expanding their search
 		- 1511 \- [[Afonso de Albuquerque]] sailed to Malacca (a very important trading port along the path of spice trade) on the Malay Peninsula (what is now Malaysia)
-		- After a short battle, Alburquerque seized the city and brutally massacring the local Arabs in the process
+		- After a short battle, Albuquerque seized the city and brutally massacring the local Arabs in the process
 		- From Malacca, Portuguese expeditions reached China and the Spice Islands (The Moluccas, eastern Indonesia)
 		- Within a few years, the Portuguese completed their trading empire and seized control of spice trade from the Muslims
 		- This brought them large profits, but they were still limited to trading posts on the coasts of India and China
