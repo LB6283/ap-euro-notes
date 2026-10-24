@@ -1,4 +1,3 @@
-- **The Age of Exploration and Conquest**  
 - On the Brink of a New World  
 	- For nearly 1000 years, Europe had been confined to one geographic area  
 	- Contact with non-European civilizations limited until end of 15th  
