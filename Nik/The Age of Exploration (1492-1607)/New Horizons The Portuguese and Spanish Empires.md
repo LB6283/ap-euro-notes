@@ -18,9 +18,9 @@
 	- In Search of Spices  
 		- In the early 16th, the Portuguese began expanding their search
 		- 1511 \- [[Afonso de Albuquerque]] sailed to Malacca (a very important trading port along the path of spice trade) on the Malay Peninsula (what is now Malaysia)
-		- After a short battle, Alburquerque siezed the city and brutally massacring the local Arabs in the process
+		- After a short battle, Alburquerque seized the city and brutally massacring the local Arabs in the process
 		- From Malacca, Portuguese expeditions reached China and the Spice Islands (The Moluccas, eastern Indonesia)
-		- Within a few years, the Portuguese completed their trading empire and siezed control of spice trade from the Muslims
+		- Within a few years, the Portuguese completed their trading empire and seized control of spice trade from the Muslims
 		- This brought them large profits, but they were still limited to trading posts on the coasts of India and China
 		- The Portuguese success was a matter of guns and seamanship
 		- Through effective use of naval technology, heavy guns that could be mounted to sturdy vessels, and tactics gave them superiority over the lightly armed rivals
@@ -28,23 +28,16 @@
 	- The Spanish had been trying to reach the same place as Portugal via westward travel
 	- The greater resources of Spain allowed them to establish a far greater, but different, empire than Portugal
 	- The Voyages of [[Christopher Columbus]]  
-		- Believed the circumference of the Earth was smaller than people thought \+ Asia larger than they thought  
 		- Knowledgeable Europeans knew that the Earth was round, but they had little understanding of the true size of the Earth's circumference and Asia
 		- Columbus was an Italian explorer who believed that the circumference was smaller than thought and that Asia was larger than thought
 		- By sailing west, Columbus believed that he could reach Asia
-		- Funding for his plan was rejected by the Portuguese, but Queen Isabella + King Ferdinand of Spain agreed to finance his exploration
+		- Funding for his plan was rejected by the Portuguese, but Queen [[Isabella I of Castile]] + King [[Ferdinand II of Aragon]] agreed to finance his exploration
 		- Columbus's first expedition
 			- In August 1492, Columbus set off with 3 ships and 90 men
 			- In October, Columbus landed in the Bahamas
 			- Soon after, he explored the coastline of Cuba and Hispaniola (Haiti and the Dominican Republic)
 			- Believing he had reached Asia, Columbus reported that he would eventually find gold and that there was an amazing opportunity to convert the Natives (whom he called Indians)
-		- Through a total of 4 expeditions, Columbus landed on all major islands of the Carribean and the mainland of Central America (never giving up that he reached Asia)
-		- Should Columbus be celebrated
-			- Had his own federal holiday, just like Lincoln (who freed slaves) and Martin Luther King Jr. (who fought for civil rights for African Americans \+ other marginalized groups)  
-			- Leif Erikson (Norse, first European to set foot on continental America\+ Native Americans discovered first  
-			- Initiator of the two greatest crimes in the history of the Western Hemisphere:
-				- Destruction of Native Americans and theft of their land  
-				- Trans-Atlantic Slave Trade
+		- Through a total of 4 expeditions, Columbus landed on all major islands of the Caribbean and the mainland of Central America (never giving up that he reached Asia)
 	- New Voyages
 		- Other explorers realized that Columbus discovered new lands, not Asia
 		- John Cabot - Venetian seaman, explored the coastline of New England under King Henry VII of England
@@ -56,10 +49,65 @@
 		- The Treaty of Tordesillas in 1494 divided the new lands into separate Spanish and Portuguese spheres of influence
 			- Most of South America went towards Spain
 			- The Route around the Cape of Good Hope went to Portugal, the route across the Atlantic Ocean went to Spain
-**The Spanish Empire in the New World**
-- Early Civilizations in Mesoamerica
-- Spanish Conquest of the Aztec Empire
-- The Inca
-- Spanish Conquest of the Inca Empire
+**The Spanish Empire in the New World** ...
+	- Conquistadors (Spanish conquerors) were motivated by the common "Gold, Glory, and God"
+	- They were authorized by Castile, but funded privately
+	- Through a combination of superior weaponry, organizational skills, determination, they were greatly successful (+ local rivalries and disease)
+	- Early Civilizations in Mesoamerica
+		- Mesoamerica (Mexico + Central America) had many flourishing civilizations
+		- In 300 CE, the Maya began taking place, building temples and pyramids, being great artists, and developing a sophisticated calendar
+		- Maya
+			- The Maya were agrarian, clearing rainforests, developing farming, and building a patchwork of city-states
+			- Maya became much of Central America and Southern America, but declined around 800 and collapsed 100 years later
+		- Aztecs
+			- In the early 12th century, Aztecs established their capital Tenochtitlan in what is now Mexico City
+			- In the next 100 years, the Aztecs built cities, temples, public buildings, houses, stone causeways across Lake Texcoco, and an aqueduct
+			- The Aztecs were great warriors, seeking to control their entire region
+			- In the 15th, the Aztecs became the leading city-state and consolidated their rule over up to Mexico, down to Guatemala, west to the Pacific, and east to the Atlantic
+			- The kingdom was made up of many semi-independent city-states, contributing to their eventual downfall
+	- Spanish Conquest of the Aztec Empire
+		- In 1519, an expedition under [[Hernán Cortés]] landed on the Gulf of Mexico
+		- He marched to Tenochtitlan, making alliances with city-states along the way
+			- Notably, the Tlaxcala, which the Aztecs were never able to conquer
+		- Once he reached the city, he received a friendly welcome from the Aztec monarch, Moctezuma
+		- Moctezuma offered gold and the palace during the stay
+		- However, the Spaniards took him hostage and pillaged the city
+		- One year after Cortes's arrival, the Aztecs revolted and drove the invaders out of the city
+		- Soon after, the Aztecs were devastated by smallpox, while Cortes received support (troops) from his allies
+		- After 4 months, the city surrendered and Spanish unleashed a wave of destruction upon the city, ending the Aztec Empire
+	- The Inca
+		- In the 14th century, the Inca were small in the area of Cuzco - a city 10000 feet in the mountains of South Peru
+		- In the 1440s, under the rule of Pachacuti, the Inca launched a campaign of conquest, bringing the entire region under their control
+		- They became a highly centralized state w/ their capital as Cuzco
+		- Under Pachacuti + his immediate successors, the Inca extended to Ecuador, central Chile, and the edge of the Amazon basin, including 12 million people
+		- Pachacuti divided his realm into 4 quarters, with 1 governor each, and further into provinces w/ about 10000 people, also with 1 governor each, with the top being the emperor (whom was believed to be the descendant of the Sun God)
+		- The Inca were great builders, notably creating 24,800 miles of road and fine suspension roads for premodern standards
+	- Spanish Conquest of the Inca Empire
+		- In 1530, Francisco Pizarro landed on the Pacific Coast of South America
+		- Like Cortes, Pizarro brought steel weaponry, gunpowder, and horses, all unfamiliar to the Natives
+		- Additionally, the Inca were already devastated by smallpox - which even killed their emperor, leading to two sons claiming the throne and a civil war
+		- Taking advantage of the situation, Pizarro executed Atahualpa (whom just defeated his brother's forces), and marched on + captured Cuzco
+		- By 1535, Pizarro established a capital at -> Lima <- for a new colony of the Spanish Empire
+	- Administration of the Spanish Empire
+		- Spanish policy can be summarized w/ confusion, misguided paternalism, and exploitation
+		- Queen Isabela I declared the Natives subjects of Castile and instituted the encomienda
+		- Encomienda 
+			- An economic + political system
+			- Allowed the Spaniards to collect tribute from + use the Natives as laborers
+			- Holders were supposed to protect the Natives, pay them wages, and supervise their religious needs
+			- The Spanish settlers largely ignored their government, brutally forcing the Natives to work on plantations and in the lucrative gold + silver mines
+			- Forced labor, starvation, and disease took the lives of many Natives leading to protest, especially from Dominican Friars
+			- Bartolomé de las Casas championed the Inmdians + many publications
+			- Soon after, the encomienda system was abolished and Natives were provided w/ more protection
+		- In the New World, the Spanish developed an administrative system
+			- Spanish possessions were divided into two units - New Spain (Mexico, Central America, and the Caribbean), and Peru
+			- Both of these were to be governed by a viceroy in Lima
+			- Viceroys were meant to represent the royal person, administer justice equally, and promote peace, and serve as the king's chief civil + military officer
+		- By Papal permission, the Catholic monarchs of Spain appointed all bishops and clergy, built churches, collected fees, and supervise all religious orders converting the Natives in the New World
 **Disease in the New World**
-- 
+	- The natives lacked a natural resistance to European diseases, including smallpox, influenza, measles, pneumonic plague, and later typhus, yellow fever, and cholera
+	- In 1518, a smallpox epidemic spread along trade routes killing 1/3 of Natives in the region
+	- Smallpox ravaged the Aztecs, smallpox + measles the Incas, contributing to their defeat from Spain
+	- By 1680, the diseases reached New England
+	- The true scale of the destruction can be shown in Hispaniola, in which the population of 100,000 Natives in 1492 declined to 300 by 1570, and in Central Mexico, in which the population of 11 million Natives in 1519 declined to 6.5 million in 1540, and 2.5 million by the end of the 16th century
+	- Very high mortality rates led to the shortage of Native workers for the Europeans and their use of slaves from Africa

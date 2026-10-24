@@ -1,14 +1,16 @@
-~(1451-1506)
-
-- Genoese (Italian) sailor  
-- Commissioned by Ferdinand and Isabella  
-- Believed the circumference of the Earth was smaller than people thought \+ Asia larger than they thought  
-- 1492 \- first voyage to the Americas  
-	- Landed first in the Bahamas, explored Cuba, then Hispaniola (modern-day Dominican Republic/Haiti)  
-	- Convinced F+I to fund more voyages with promises of gold and opportunities to convert native people to Christianity  
-- Should he be celebrated or whatever or something
+(1451-1506)
+- Columbus was a Genoese (Italian) explorer who believed that the circumference was smaller than thought and that Asia was larger than thought
+- By sailing west, Columbus believed that he could reach Asia
+- Funding for his plan was rejected by the Portuguese, but Queen [[Isabella I of Castile]] + King [[Ferdinand II of Aragon]] agreed to finance his exploration
+- Columbus's first expedition
+	- In August 1492, Columbus set off with 3 ships and 90 men
+	- In October, Columbus landed in the Bahamas
+	- Soon after, he explored the coastline of Cuba and Hispaniola (Haiti and the Dominican Republic)
+	- Believing he had reached Asia, Columbus reported that he would eventually find gold and that there was an amazing opportunity to convert the Natives (whom he called Indians)
+- Through a total of 4 expeditions, Columbus landed on all major islands of the Carribean and the mainland of Central America (never giving up that he reached Asia)
+- Should Columbus be celebrated
 	- Had his own federal holiday, just like Lincoln (who freed slaves) and Martin Luther King Jr. (who fought for civil rights for African Americans \+ other marginalized groups)  
-	- Leif Erikson (Norse, first European to set foot on continental America) \+ Native Americans discovered first  
+	- Leif Erikson (Norse, first European to set foot on continental America\+ Native Americans discovered first  
 	- Initiator of the two greatest crimes in the history of the Western Hemisphere:
 		- Destruction of Native Americans and theft of their land  
 		- Trans-Atlantic Slave Trade
