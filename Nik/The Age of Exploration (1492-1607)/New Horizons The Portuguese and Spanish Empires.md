@@ -24,7 +24,7 @@
 		- This brought them large profits, but they were still limited to trading posts on the coasts of India and China
 		- The Portuguese success was a matter of guns and seamanship
 		- Through effective use of naval technology, heavy guns that could be mounted to sturdy vessels, and tactics gave them superiority over the lightly armed rivals
-**Voyages to the New World**
+- **Voyages to the New World**
 	- The Spanish had been trying to reach the same place as Portugal via westward travel
 	- The greater resources of Spain allowed them to establish a far greater, but different, empire than Portugal
 	- The Voyages of [[Christopher Columbus]]  
@@ -49,7 +49,7 @@
 		- The Treaty of Tordesillas in 1494 divided the new lands into separate Spanish and Portuguese spheres of influence
 			- Most of South America went towards Spain
 			- The Route around the Cape of Good Hope went to Portugal, the route across the Atlantic Ocean went to Spain
-**The Spanish Empire in the New World** ...
+- **The Spanish Empire in the New World** ...
 	- Conquistadors (Spanish conquerors) were motivated by the common "Gold, Glory, and God"
 	- They were authorized by Castile, but funded privately
 	- Through a combination of superior weaponry, organizational skills, determination, they were greatly successful (+ local rivalries and disease)
@@ -104,7 +104,7 @@
 			- Both of these were to be governed by a viceroy in Lima
 			- Viceroys were meant to represent the royal person, administer justice equally, and promote peace, and serve as the king's chief civil + military officer
 		- By Papal permission, the Catholic monarchs of Spain appointed all bishops and clergy, built churches, collected fees, and supervise all religious orders converting the Natives in the New World
-**Disease in the New World**
+- **Disease in the New World**
 	- The natives lacked a natural resistance to European diseases, including smallpox, influenza, measles, pneumonic plague, and later typhus, yellow fever, and cholera
 	- In 1518, a smallpox epidemic spread along trade routes killing 1/3 of Natives in the region
 	- Smallpox ravaged the Aztecs, smallpox + measles the Incas, contributing to their defeat from Spain
