@@ -1,4 +1,4 @@
-(1451-1506)
+~(1451-1506)
 
 - Genoese (Italian) sailor  
 - Commissioned by Ferdinand and Isabella  

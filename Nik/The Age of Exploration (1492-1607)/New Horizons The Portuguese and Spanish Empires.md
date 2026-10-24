@@ -1,42 +1,65 @@
-- The Portuguese Maritime Empire  
+**The Portuguese Maritime Empire**  
 	- Portugal took the lead in the European Age of Expansion and Exploration  
 	- Focused on maritime trade \+ exploration, not land conquests  
-	- Led by Prince Herny the Navigator  
+	- Led by Prince [[Henry the Navigator]] 
 		- Founded a school for navigation in 1419  
 		- Portuguese fleets began probing southward along the African coast for gold  
 		- 1441 \- Brought African slaves from Cape Verde  
 		- 1471 \- Discovered gold in West African Gold Coast  
 		- Built stone forts along African coast  
 		- Began a trade (extracted wealth) in gold, ivory, and slaves  
-	- The Portuguese in India  
+	- The Portuguese in India 
 		- Explorers heard there may be a way to reach India around Africa  
 		- 1488 \- Bartolomeu Dias rounds the Cape of Good Hope, turned back (fear of mutiny)  
-		- 1498 - Vasco da Gama rounds the Cape of Good Hope, sails to the port of Calicut in India,   
-		- Searching for “Christians and Spices”, did not find  
-		- Found LOTS of spices, cinnamon \+ ginger  
+		- 1498 - Vasco da Gama rounds the Cape of Good Hope, stops at many Muslim ports along the eastern coast of Africa, and reaches the port of Calicut in India
+			- He was searching for Christians and spices, but only found spices, bringing back EXTREMELY profitable ginger and cinnamon
 		- 1510 \- Admiral Afonso de Albuquerque set up port fortifications in Goa, India (modern-day Mumbai / Bombay)  
-		- Became Portugal’s HQ in India  
+			- This became Portugal’s HQ in the region  
 	- In Search of Spices  
-		- 1511 \- Afonso de Albuquerque sailed to Malacca on the Malay Peninsula (Malaysia), fought a battle, massacred local Arabs, seized the city  
-		- Malacca \= very important Portuguese trading port  
-		- Together with the Moluccas, it became known as the Spice Islands  
-		- Within a few years, the Portuguese had seized control of the spice trade from Muslim traders  
-		- Made LOTS of money  
-		- Established trading ports (not land) in India \+ China  
-	- Why were the Portuguese so Successful?  
-		- Guns, seamanship  
-		- Luck of being slightly more advanced \+ had more modern artillery \+ naval technology  
-- Voyages to the New World  
-	- [[Christopher Columbus]]  
-		- Genoese (Italian) sailor  
-		- Commissioned by Ferdinand and Isabella  
+		- In the early 16th, the Portuguese began expanding their search
+		- 1511 \- [[Afonso de Albuquerque]] sailed to Malacca (a very important trading port along the path of spice trade) on the Malay Peninsula (what is now Malaysia)
+		- After a short battle, Alburquerque siezed the city and brutally massacring the local Arabs in the process
+		- From Malacca, Portuguese expeditions reached China and the Spice Islands (The Moluccas, eastern Indonesia)
+		- Within a few years, the Portuguese completed their trading empire and siezed control of spice trade from the Muslims
+		- This brought them large profits, but they were still limited to trading posts on the coasts of India and China
+		- The Portuguese success was a matter of guns and seamanship
+		- Through effective use of naval technology, heavy guns that could be mounted to sturdy vessels, and tactics gave them superiority over the lightly armed rivals
+**Voyages to the New World**
+	- The Spanish had been trying to reach the same place as Portugal via westward travel
+	- The greater resources of Spain allowed them to establish a far greater, but different, empire than Portugal
+	- The Voyages of [[Christopher Columbus]]  
 		- Believed the circumference of the Earth was smaller than people thought \+ Asia larger than they thought  
-		- 1492 \- first voyage to the Americas  
-			- Landed first in the Bahamas, explored Cuba, then Hispaniola (modern-day Dominican Republic/Haiti)  
-			- Convinced F+I to fund more voyages with promises of gold and opportunities to convert native people to Christianity  
-		- Should he be celebrated or whatever or something
+		- Knowledgeable Europeans knew that the Earth was round, but they had little understanding of the true size of the Earth's circumference and Asia
+		- Columbus was an Italian explorer who believed that the circumference was smaller than thought and that Asia was larger than thought
+		- By sailing west, Columbus believed that he could reach Asia
+		- Funding for his plan was rejected by the Portuguese, but Queen Isabella + King Ferdinand of Spain agreed to finance his exploration
+		- Columbus's first expedition
+			- In August 1492, Columbus set off with 3 ships and 90 men
+			- In October, Columbus landed in the Bahamas
+			- Soon after, he explored the coastline of Cuba and Hispaniola (Haiti and the Dominican Republic)
+			- Believing he had reached Asia, Columbus reported that he would eventually find gold and that there was an amazing opportunity to convert the Natives (whom he called Indians)
+		- Through a total of 4 expeditions, Columbus landed on all major islands of the Carribean and the mainland of Central America (never giving up that he reached Asia)
+		- Should Columbus be celebrated
 			- Had his own federal holiday, just like Lincoln (who freed slaves) and Martin Luther King Jr. (who fought for civil rights for African Americans \+ other marginalized groups)  
 			- Leif Erikson (Norse, first European to set foot on continental America\+ Native Americans discovered first  
 			- Initiator of the two greatest crimes in the history of the Western Hemisphere:
 				- Destruction of Native Americans and theft of their land  
 				- Trans-Atlantic Slave Trade
+	- New Voyages
+		- Other explorers realized that Columbus discovered new lands, not Asia
+		- John Cabot - Venetian seaman, explored the coastline of New England under King Henry VII of England
+		- Pedro Cabral - A Portuguese sea captain, discovered South America (for the Europeans) in 1500
+		- Amerigo Vespucci - A Florentine, accompanied many voyages and wrote letters describing the geography of the New World, leading to the name America
+		- Vasco Núñez de Balboa - A Spanish explorer, in 1513 led a fleet passing through Panama and reaching the Pacific Ocean
+		- Ferdinand Magellan - A Portuguese explorer, passed through the southern tip of South America, reaching the Philippines, where he was killed by the natives. One of his 5 ships completed the voyage to Spain, the first known circumnavigation of the Earth
+		- Europeans quickly saw the opportunity for conquest and exploitation in the Americas
+		- The Treaty of Tordesillas in 1494 divided the new lands into separate Spanish and Portuguese spheres of influence
+			- Most of South America went towards Spain
+			- The Route around the Cape of Good Hope went to Portugal, the route across the Atlantic Ocean went to Spain
+**The Spanish Empire in the New World**
+- Early Civilizations in Mesoamerica
+- Spanish Conquest of the Aztec Empire
+- The Inca
+- Spanish Conquest of the Inca Empire
+**Disease in the New World**
+- 
