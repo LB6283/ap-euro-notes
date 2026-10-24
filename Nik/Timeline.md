@@ -14,7 +14,7 @@ c. 1450 - Gutenberg's printing press
 1519-1521 - [[Hernán Cortés]] conquers Aztec Empire (noted in [[New Horizons The Portuguese and Spanish Empires|this]])
 1519-1522 - Magellan's circumnavigation (noted in [[New Horizons The Portuguese and Spanish Empires|this]])
 1521 - Diet of Worms w/ Luther
-1534 - English Act of Supremacy (Henry VIII)
+1534 - English Act of Supremacy (Henry VIII est)
 1549 - [[Book of Common Prayer]] first published
 1555 - Peace of Augsburg
 1618-1648 - Thirty Years' War
