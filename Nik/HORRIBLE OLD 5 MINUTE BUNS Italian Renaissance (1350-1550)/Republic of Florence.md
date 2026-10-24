@@ -1,0 +1,2 @@
+- Florence dominated central Italy / the region of Tuscany
+- Florence was an oligarchy, but Cosimo de' Medici was essentially dictator (however Florence kept a republican appearance)

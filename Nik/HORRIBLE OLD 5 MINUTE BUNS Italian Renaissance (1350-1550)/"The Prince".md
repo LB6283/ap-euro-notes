@@ -1,0 +1,5 @@
+- A political treatise written in 1513 by [[Niccolò Machiavelli]], and his most famous work
+- Sometimes considered to be one of the first works of modern political philosophy
+- The Prince served as a guide for how a ruler can gain and maintain power 
+- Emphasized that a prince must be both the lion and the fox, feared but also respected, prepared to use ruthlessness and deception, and militarily adept
+- However, Machiavelli also emphasized that a prince must appear virtuous, honest, and generous

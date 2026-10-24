@@ -1,0 +1,4 @@
+- Naples was located in southern Italy, sometimes including Sicily
+- Naples was a backward monarchy during the Renaissance
+- Naples was mostly poor peasants with unruly nobles
+- Naples was relatively unimportant in the cultural Renaissance

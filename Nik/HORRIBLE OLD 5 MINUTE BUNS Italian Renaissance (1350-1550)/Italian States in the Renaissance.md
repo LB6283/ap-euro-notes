@@ -1,0 +1,10 @@
+- [[Duchy of Milan]]
+- [[Republic of Venice]]
+- [[Republic of Florence]]
+- [[Papal States]]
+- [[Kingdom of Naples]]
+- Independent City-States
+	- There were a few independent city-states, ruled by powerful families
+	- They often recognized women as rulers - a rarity during the Renaissance
+	- [[Urbino]]
+	- [[Mantua]]

@@ -1,0 +1,4 @@
+- 1307-1374
+- "The Father of the [[Italian Renaissance]]"
+- First to classify the Middle Ages as a period of darkness with the current era as distinct
+- Searched monasteries for Classical works, classical + secular content

@@ -1,0 +1,3 @@
+- Venice was a maritime republic
+- Governed by a small merchant oligarchy
+- Very stable with large wealth from trade

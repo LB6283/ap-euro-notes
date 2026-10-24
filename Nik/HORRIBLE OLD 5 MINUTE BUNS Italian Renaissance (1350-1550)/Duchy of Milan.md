@@ -1,0 +1,3 @@
+- The Duchy of Milan was ruled by Francesco Sforza, a condottiero
+- He conquered Milan in 1447
+- Milan had a strong central government + taxes

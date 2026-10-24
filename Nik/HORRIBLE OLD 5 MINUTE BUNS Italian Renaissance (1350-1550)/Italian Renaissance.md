@@ -1,0 +1,6 @@
+- 1350-1550
+- See:
+	- [[Italian States in the Renaissance]]
+	- [[Warfare in Italy]]
+	- [[Education in the Renaissance]]
+	- [[Niccolò Machiavelli]]

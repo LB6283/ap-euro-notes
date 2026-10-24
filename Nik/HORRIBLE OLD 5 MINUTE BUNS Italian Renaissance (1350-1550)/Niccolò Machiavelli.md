@@ -1,0 +1,5 @@
+- 1469-1527
+- A Florentine diplomat and political philosopher
+- He wrote the famous [["The Prince"]]
+	- A practical and realistic guide for princes to gain and keep power
+- Machiavelli viewed human nature as deceptive + deceiving, ungrateful, fickle, and self-interested

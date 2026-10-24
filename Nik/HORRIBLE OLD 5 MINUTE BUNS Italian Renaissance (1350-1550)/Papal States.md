@@ -1,0 +1,3 @@
+- The Papal states were located in central Italy, nominally controlled by the Papacy
+- However, the [[Great Schism]] weakened Papal control
+- Throughout the 15th century, the Papacy tried to regain control

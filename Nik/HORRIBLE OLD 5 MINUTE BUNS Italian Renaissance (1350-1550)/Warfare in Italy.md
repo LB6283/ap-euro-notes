@@ -1,0 +1,10 @@
+- Warfare was common during the Renaissance because:
+	- There was no single central government with lots of small competing city-states
+	- These city-states were extremely wealthy
+	- Nearby expansionist monarchs saw Italy as valuable
+- Most notably, Spanish and French
+- In 1494, the [[Duchy of Milan]] invited France (Charles VII) to invade the [[Kingdom of Naples]]
+		- An army of 30,000 advanced + occupied
+		- Other city-states asked Spain (Ferdinand) for help
+		- This lasted for 15 years, ending with Spain in control
+- This warfare led to the development of diplomacy

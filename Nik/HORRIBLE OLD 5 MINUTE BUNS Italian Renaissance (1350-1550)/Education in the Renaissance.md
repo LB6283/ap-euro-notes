@@ -1,0 +1,6 @@
+- The primary goal of education was to have individuals follow a path of virtue and wisdom while possessing the rhetorical skills to convince others to do the same
+- Additionally, to produce complete citizens who participate in the civic life of communities
+- However, this was primarily for the elites, not everyday people
+- The education focused on the liberal studies: history, moral philosophy, rhetoric, grammar, logic, poetry, mathematics, astronomy, and music to help people reach their full potential
+- Of course, there were much less girls/women than boys/men
+- Even when they would have education, it would be focused on religion and morals rather than the liberal studies
