@@ -1,0 +1,46 @@
+- The German States
+	- Each of the 300 states in the HRE (Holy Roman Empire) were virtually autonomous and sovereign
+	- The Rise of Brandenburg-Prussia
+		- The Hohenzollern dynasty came to rule part of Northeastern Germany in 1415
+		- In 1609, they inherited some land in west Germany, and in 1615 some more in eastern Prussia
+		- Together, their 3 disconnected masses became known as Brandenburg-Prussia
+		- Frederick William the Great Elector (1640-1688) built an army, and by 1678 had 40,000 men
+		- The General War Commissariat was established for taxes to fund the army
+		- Frederick made a deal w/ the nobles (junkers), a free hand in the government in exchange for nobles having nearly unlimited power over their peasants, the highest ranks in the army, and being exempted from taxation which reinforced serfdom
+		- Frederick followed mercantilist policies, building roads+canals w/ high tariffs, subsidies, and monopolies
+		- His son Frederick III (1688-1713) came after and aided the HRE and became King Frederick I of Prussia
+	- The Emergence of Austria
+		- The Austrian Habsburgs lost hope by the end of the 30 Years' War, instead creating a new empire in eastern and southeastern Europe
+		- In the 17th century, Leopold I encouraged eastward expansion but was stopped by the Ottomans
+		- The Treaty of Karlowitz (1699) gave Austria control over Hungary, Transylvania, Croatia, and Slovenia
+		- At the end of the [[War of the Spanish Succession]], Austria gained the Spanish's territories in the Netherlands and Italy
+		- The Austrian monarchy never became a highly centralized absolutist state, instead a collection of territories connected by the Habsburgs
+		- By the 18th century, Austria became a populous central European empire w/ a great potential military strength
+- Italy: From Spanish to Austrian Rule
+	- By 1530, [[Charles V]] became the arbiter of Italy, and in 1540 Milan went to Philip II and all imperial rights over Italy to Spain
+	- Austria supplanted Spain as the dominant power in Italy having Milan, Marton, Sardinia, and Naples
+- Russia: From Fledgling Principality to Major Power
+	- A new Russian state formed in the 15th century under Moscow and its grand dukes
+	- In the 16th century, Ivan the Terrible expanded Russia eastward and crushed the Russian nobles (Boyars)
+	- After the ending of Ivan's dynasty, a period of anarchy (Time of Troubles) followed which did not end until the Zemsky Sobor chose Michael Romanov as the new tsar
+	- In the 17th century,Muscovite society was highly stratified, having divinely ordained autocratic tsars at the top, the lessers dominated by landed aristocrats
+	- Serfdom was favorable to the nobles, and pesants were gbound to the land + townspeople were controlled, merchants not being allowed to move w/o government approval
+	- 17th century merchant and peasant revolts + a schism within the church led to unsettled conditions
+	- Russia remained largely out of the westerm framework at the time
+	- The Reign of Peter the Great (1689-1725)
+		- Peter was an unusual and strong man
+		- After making a trip to the west, he became determined to westernize/Europeanize Russia
+		- He admired European technologies and gadgets and desired to transplant them to Russia
+		- One of his 1st priorities was to reorganize the army and create a navy
+		- He created a standing army of 210,000 and formed the first Russian navy
+		- In 1711, he created the Senate to supervise during his absence
+		- The Senate became essentially a ruling council, but it was ineffective leading to Peter creating colleges (boards of administrators w/ specific functions)
+		- Peter divided Russia into 8 provinces and by 1719 into 50
+		- Peter wished to create a "police state", a well-ordered community governed in accordance w/ the law
+		- Few of his bureaucrats shared his concept of honest service and duty
+		- Peter demanded all landholding class to serve in the military or civil offices
+		- In 1722, the Table of Ranks was created
+			- All civil offices were ranked by 14 levels, 14 grades for military officers
+			- A non-noble reaching the 8th would turn into a noble 
+		- The army and navy used up to 4/5 of Russian's revenue, so Peter began adopting Western mercantilist policies
+		
