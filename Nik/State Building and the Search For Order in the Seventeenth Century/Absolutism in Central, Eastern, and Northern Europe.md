@@ -43,4 +43,59 @@
 			- All civil offices were ranked by 14 levels, 14 grades for military officers
 			- A non-noble reaching the 8th would turn into a noble 
 		- The army and navy used up to 4/5 of Russian's revenue, so Peter began adopting Western mercantilist policies
-		
+		- Still, taxes were raised creating further burdens on peasants
+		- In 1721, to establish state control over the Russian Orthodox Church, Peter abolished the patriarch and created a body called the Holy synod w/ a procurator at the top who represents Peter
+		- Peter created a book to teach Western manners
+			- Beards shaved, coats shortened, etc.
+		- Women benefited from Peter's cultural reforms
+			- Removed seclusion of upper class women and the traditional face-covering veils
+			- Peter held social gatherings 3 times per week where men and women could converse freely, play card games, and dance
+			- Women were allowed to marry at their free will
+	- Russia as a Military Power
+		- Peter's goal was to make Russia a great state and military power
+		- Also, to create a port acessible to Europe, but that could only be done in the currently Swedish Baltic coast
+		- Thus, Peter attacked Charles XII and Sweden w/ support from Poland and Denmark
+		- However, Charles was brilliant, and w/ only 9,000 troops routed the opposing 40,000
+		- At the Battle of Poltova (1709) Peter decisively defeated Charles's army
+		- The Peace of Nystadt (1721) gave formal recognizition to Peter's acquisition of Estonia, Livonia, and Korelia
+		- Peter began constructing Saint Petersburg to be Russia's capital
+		- While Russia became Peter's hope of a great military power, his policies were also detrimental
+			- Westernization only reached the upper classes and the burders were increased on the Russian people
+			- Many began distrusting Western/European ideas rather than embracing them
+- The Great Northern States
+	- Denmark and Sweden were in constant rivalry during the 17th century
+	- Denmark
+		- Under Christian IV, Denmark had little success in expanding
+		- Kings shared their power w/ the nobility
+		- Ambitions for ruling the Baltic were curbed by the 30 Years' War and the Northern War w/ Sweden
+		- Military losses led to a constitutional crisis and a peaceful revolution in 1660
+		- A new absolutist administration was instituted w/ the nobility as chief officeholders, centralized under Christian
+	- Sweden
+		- Sweden seemed relatively poor compared to Denmark
+		- The economy was very weak and the monarchy was in conflict w/ the Swedish nobility
+		- During Gustavus Adolphus and Chief Minister Axel Oxenstierna, a new policy was adopted
+			- The nobility forming a first estate and occupying bureaucratic positions of an expanded central government
+			- This created a stable monarchy and freed the king
+		- After the death of Gustavus, Sweden entered a political crisis
+			- Daughter Christina was less interested in ruling
+			- Her favoring nobility led to the Riksdag (parliament) protesting
+			- Christina handed power to her cousin Charles, who became King Charles X and diffused the situation
+		- Charles XI (successor) built the monarchy along absolutism, weakening the nobility
+		- Charlies XII (successor) was left w/ a well-organized state that dominated northern Europe
+		- However, while he was a brilliant general, his involvement in conflicts led to Sweden losing much of its empire to Russia
+- The Ottoman Empire
+	- After capturing Constantinople in 1453, the Ottomans tried to complete the conquest of the Balkans
+	- However, the Hungarians and internal problems prevented them from going further
+	- Sultan Suleiman I the Magnificent seized Belgrade in 1521 and Hungary by 1526, but was stopped before Vienna
+	- Extended into the western Mediterranean, but the defeat from the Spanish in 1571 stopped them once more
+	- The Ottoman Empire had a highly effective government system
+	- The capital (Constantinople) had a massive population
+	- Sometimes, factions would fight over influence and the throne
+	- Janissaries - Christian boys taken from their parents and converted to Muslism - became 8000 elite, loyal, and disciplined troops
+	- In the first half of the 17th century, the Ottomans were inactive, but in the second half this changed and in 1683 led siege on Vienna
+	- However, Austrians + Poles + Bavarians + Saxons pushed them out, and the Ottoman Turks were never a threat to Europe again
+- The Limits of Absolutism
+	- The power of monarchs were actually far from absolute
+	- The local institutions controlled locals lives, not the kings and ministers
+	- The most successful rulers used their old system rather than destroying it (such as [[King Louis XIV]])
+	- The immensely powerful landed aristocracy played an important role in the monarchical system - some places they even put severe limits on absolute monarchs
