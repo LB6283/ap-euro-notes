@@ -1,3 +1,4 @@
+- 15.3
 - The German States
 	- Each of the 300 states in the HRE (Holy Roman Empire) were virtually autonomous and sovereign
 	- The Rise of Brandenburg-Prussia

@@ -1,0 +1,121 @@
+- 15.4
+- The Weakness of the Polish Monarchy
+	- The 1386 union of Jagiello (Grand prince of Lithuania) w/ Jadwiga (Polish queen) = Lithuanian-Polish state, but it was only formally recognized in 1569
+	- It was the largest kingdom in Christendom at the start of the 15th century
+	- Had a unique government system in which assemblies of nobles elected the king and limited noble power
+	- The power of its nobles led to continued serfdom
+	- After the Jagiello dynasty ended n 1572, outsiders began being chosen as kings to foster alliances
+	- Swede Sigismund III hoped to create a vast Polish empire, which was unsuccessful and became decentralized and weak by the end of the 17th century
+	- The Sejm (Polish diet) was two-chambered and landowners dominated the rest
+	- Kings had to agree toi share powers in taxation, foreign + military policy, and the appointment of state officials + judges
+	- The liberum veto in 1652 allowed any member to insantly stop the Sejm meetings
+	- Poland became essentially a confederation of semi-independent estates of landed nations and a target for invasion
+- The Golden Age of the Dutch Republic
+	- The 17th age is the golden age
+	- The 7 northern provinces after the 16th century Netherlands revolt called themselves the United Provinces of the Netherlands + were the core of the Dutch
+	- Each province had a stadholder responsible for leading the army and order
+	- The House of Orange (William Orange) advocated for a centralized government with monarchs
+	- The States General (Representatives) advocated for a decentralized republic government
+	- In 1672, the United Provinces turned to William III (An Orange) to establish a monarchy
+	- But after his death, they regained control
+	- Wars with France and England placed heavy burdens on finances and manpower
+	- By 1715, the Dutch were in serious economic decline
+	- Life in 17th Century Amsterdam
+		- By the 17th, Amsterdam replaced Antwerp as the financial and commercial capital of Europe
+		- The 1570 population was 30,000, 60,000 in 1610, and 200,000 in 1660
+		- The 1613 "Urban Expansion Plan" extended the city from 500 to 1800 acres w/ 3 large canals
+		- Amsterdam merchants had a vast fleet of ships, often used for the lucrative North Sea herring catch
+			- Dutch fluyt - A shallow-draft ship w/ large capacity - allowed massive transport
+		- Amsterdam became a crossroads for exchange and the chief port for the Dutch West and East Indian companies
+		- Amsterdam produced many finished goods, and by 1700 was the principal supplier of military goods
+		- The Exchange Bank of Amsterdam established in 1609 was the greatest bank in Northern Europe
+		- Very wealthy manufacturers, shipyard owners, and merchants controlled the city's government and were at the top of society
+		- In 1745, Calvinist heritage burghers lived a simple lifestyle, wearing dark clothes and living in simply-furnished houses
+			- They kept their houses *spotless* and orderly
+		- However, by 1775, many began rejecting their Calvinist heritage leading to more elaborate and colorful clothes
+- England and the Emergence of Constitutional Monarchy
+	- King James VI of Scotland became King James I of England, justifying his rule with the divine right of kings  
+	- However, the tradition of the Parliament was a balanced polity  
+		- So, they refused James’s requests for additional monies  
+	- James’s religious policy angered many within Parliament  
+		- The Puritans wanted the king to get rid of the episcopal system  
+			- Episcopal system \- Hierarchical structure: Regional bishops oversee lower-level clergy/church officials  
+			- Instead, a system of organization similar to Calvin’s Geneva  
+		- King James does not agree  
+		- He needs the support of the Bishops (whom he appoints directly) to maintain power  
+	- When James I dies, his son Charles I becomes king  
+		- Fries  
+	- In 1628, Parliament passes the Petition of Right  
+		- King has to accept before Parliament gives money  
+		- No taxation w/o Parliament’s consent  
+		- No arbitrary imprisonment  
+		- No quartering soldiers in private houses  
+		- No declaration of martial law in peacetime  
+		- King Charles initially accepts, but soon takes it back  
+		- Does not want his royal power limited  
+	- Charles begins trying to work w/o Parliament  
+		- Did not summon for the next 11 years after 1629  
+		- However, needs a way to raise money w/o the Parliament’s help  
+			- Solution: Ship money \- a tax on seacoast towns to pay for coastal defense  
+				- Charles makes it permanent \+ collects it annually  
+	- Charles I’s religious policy was disastrous  
+		- Married to Henrietta Maria, the Catholic sister of King Louis XIII of France (suspicious to English Puritans/Protestants)  
+		- Tries to introduce more ritual into the Anglican Church through Archbishop William Laud  
+			- William Laud tries to impose the English Book of Common Prayer on the Scottish Presbyterian Church  
+			- The Scots rebel  
+	- Charles needs a lot of money, fast, to raise an army to stop the rebellion  
+		- So, he is forced to call Parliament  
+	- The Parliament stays in session in some form from 1640-1660  
+		- Abolished the Crown's arbitrary courts  
+		- Abolished the taxes the King imposed w/o Parliament’s consent (e.g. Ship Money)  
+		- Passed the Triennial Act (Parliament *has* to meet at least once every 3 years)  
+	- By the end of 1641, a split in opinion occurs in Parliament  
+		- Some believe the King’s power does not need to be limited further  
+		- Others want to keep limiting the king’s power  
+	- Charles, thinking he can take advantage of the split, arrests the most radical faction in Parliament  
+		- Backfires horribly; Parliament decides the King had gone too far and goes to war against the king  
+	- Civil War in England  
+		- Parliament wins the 1st phase (1642-1646)  
+			- Largely due to the creation of the New Model Army, extreme Puritans believing they are battling for God  
+				- One of its leaders is Oliver Cromwell  
+			- It ended with the Parliament's capture of Charles I  
+		- W/ Charles captured, many want to restore him as monarch, but w/ an official Presbyterian Church of England  
+			- Others disagreed, and Charles takes advantage of this division, fleeing to Scotland  
+		- Cromwell \+ the NMA, enraged at Charles’s actions, renew the war, determined to achieve victory  
+			- Cromwell and the NMA capture Charles again  
+		- Cromwell purges the Presbyterian members of the Parliament, leaving a smaller “Rump Parliament” of 53 members  
+		- The Rump Parliament tries Charles I for treason, and he is beheaded in 1649  
+	- Cromwell and the New Government  
+		- The Rump Parliament abolished the monarchy, proclaiming England a republic/commonwealth  
+			- Cromwell ruled (initially) w/ Parliament and a Council of State, ruled this way from 1649-1653  
+		- Cromwell has problems:  
+			- Cromwell *brutally* put down a Catholic uprising in Ireland  
+			- An uprising in Scotland on behalf of Charles I’s son  
+			- Opposition within England from more radical groups, such as the Levellers, who were ahead of their time and advocated for democracy and equality  
+		- Cromwell abolishes Parliament  
+			- Ironically, he is becoming similar to Charles  
+			- Disperses Parliament by force  
+		- The Army, under Cromwell’s guidance, drew up a new Constitution \- the Instrument of Government  
+			- Executive power in the Lord Protector (Cromwell)  
+			- Legislative power held in a new Parliament  
+				- But, yet again, it is dissolved, and Cromwell sets up military governors over 11 regions  
+	- Restoration of the Monarchy  
+		- Cromwell dies in 1658, and his son becomes Lord Protector, but less capable (did not have support of the army)  
+		- The military Protectorate government was unpopular in England  
+		- Charles II (1660-1685) returns to England and is named King  
+			- The House of Lords in Parliament was restored  
+			- Parliament kept much of the power that it had won  
+				- Parliament’s consent is required for new taxes  
+				- The arbitrary courts were abolished  
+			- The Anglican Church had been restored in 1661 as the official Church of England  
+			- The new parliament passed laws forcing everyone to conform to the Anglican church  
+			- Charles was sympathetic to Catholicism  
+				- Issued the Declaration of Indulgence in 1672, suspending laws against Catholics \+ Puritans  
+			- Parliament Test Act of 1673 \- Only Anglicans can hold office  
+			- The Whigs wanted to prevent James from becoming King and ensure a Protestant took the throne  
+			- The Tories supported James as King, believing in the traditional and hereditary royal succession  
+		- Upon Charles II’s death, James II becomes king  
+			- Catholic  
+			- Sought to further Catholic interests  
+			- Had very few children, only Protestant daughters as heirs  
+			- However, his second wife had a baby boy - Catholic, scary!
